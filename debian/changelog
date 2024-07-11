@@ -1,3 +1,10 @@
+lmod (8.7.43) unstable; urgency=medium
+
+  * Setting TAG_VERSION to 8.7.43
+
+ -- Simon Leary <simon.leary42@proton.me>  Thu, 11 Jul 2024 00:00:00 +0000
+
+
 lmod (8.7.34) unstable; urgency=medium
 
   * Setting TAG_VERSION to 8.7.34
